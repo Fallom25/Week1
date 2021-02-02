@@ -1,0 +1,19 @@
+header {
+  text-align: center;
+}
+
+img{
+  height: 300px;
+  width: 500px;
+}
+
+ul{
+  display:flex;
+  justify-content: space-around;
+}
+
+ol> li> a{
+  text-align: center;
+  font-weight: bold;
+}
+

@@ -1,0 +1,12 @@
+#making directory
+~/
+mkdir <directory name>
+cd git-testing
+git init
+
+
+# make changes
+git add <filename>
+git commit -m "commit message"
+git remote add origin <your repo link / github link>
+git push -u origin master
